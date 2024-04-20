@@ -1,0 +1,15 @@
+---
+title: "My Quarto Document with Embedded Shiny App"
+format: html
+---
+
+\# Embedding a Shiny App in Quarto
+
+Below is an embedded interactive Shiny app within this Quarto document.
+
+## Federal Spending Dashboard
+
+<iframe src="https://eidc.shinyapps.io/Federal_Spending_Dashboard/" style="border: none; width: 100%; height: 600px;"></iframe>
+
+
+This interactive dashboard is embedded directly into the Quarto document.
