@@ -1,4 +1,4 @@
-Comprehensive Analysis of Musical Features and Lyrics
+**Comprehensive Analysis of Musical Features and Lyrics**
 
 	
 **Executive Summary**
@@ -139,9 +139,7 @@ Figure 8: Word cloud
 Natural language processing tools were used to analyze the sentiment of the lyrics, allowing for an examination of the emotional tone and shifts over time. Sentiment scores typically range from negative to positive, reflecting a spectrum of emotions that can be conveyed through lyrics. A higher average score suggests a prevalence of positive sentiments such as joy and happiness, while a lower score might indicate more negative emotions like sadness or anger. 
 
 
-<img width="475" alt="image" src="https://github.com/Madhvimm/DS_MusicFeaturesLyrics/assets/114104573/3f8b0811-1885-45b0-8cce-a1e9cd195d79">
-
-
+<img width="475" alt="image" src="https://github.com/Madhvimm/DS_MusicFeaturesLyrics/assets/114104573/2bceb184-6d7e-480f-88ea-807d9963e5b6">
 
 
 Figure 9: The sentiment analysis graph presented here offers an insightful look into the emotional undertones of song lyrics over a span of years. By applying natural language processing techniques, we've quantified the average sentiment score of songs for each year, revealing how the emotional content of music has fluctuated over time.
@@ -159,6 +157,10 @@ To conclude it's clear that the last ten years have been a dynamic period in the
 
 As we look to the future, it's evident that embracing diversity in musical expression and remaining attuned to societal shifts will be key to resonating with audiences.
 
+
+
+
+
 **References**
 
 •	Billboard “125 Greatest of All Time Artists”: https://www.billboard.com/charts/greatest-of-all-time-artists/
@@ -171,4 +173,4 @@ https://www.discogs.com/developers
 https://docs.genius.com/
 •	Billboard.py API: billboard.py is a Python API for accessing music charts from Billboard.com https://github.com/guoguo12/billboard-charts
 •	Lyrics Genius: a Python client for the Genius.com API used to extract Lyrics https://github.com/johnwmillr/LyricsGenius
-![image](https://github.com/Madhvimm/DS_MusicFeaturesLyrics/assets/114104573/5078b865-8f22-43f6-b2d5-5b289cb506b0)
+
